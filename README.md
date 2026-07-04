@@ -25,13 +25,15 @@ The completed fine-tuned LLaMA-3 adapter model and the curated Tausug dictionary
 
 To ensure this project remains accessible to students and researchers with limited hardware, the entire data-generation pipeline runs locally using quantized models (Phi-3 / LLaMA 3) via Ollama, requiring zero API costs.
 
-![System Architecture Diagram](images/system_architecture.png)
+<img width="2845" height="6772" alt="Data Pipeline Diagram-2026-07-04-211613" src="https://github.com/user-attachments/assets/17ff6610-5f4f-4ca6-bcb2-33dcd8590f11" />
+
 
 ## QLoRA Training Pipeline
 
 The dataset compiled in this repository is structured in JSONL (ChatML format) to allow for Parameter-Efficient Fine-Tuning (QLoRA) on consumer-grade hardware or free cloud GPUs (like Google Colab).
 
-![QLoRA Training Pipeline Diagram](images/qlora_pipeline.png)
+<img width="8192" height="794" alt="Deep Learning_Training Diagram-2026-07-04-211707" src="https://github.com/user-attachments/assets/4d706115-577b-43b8-843d-f7fc49ae98d6" />
+
 
 ## Repository Structure
 *   `datasets/raw/` - Raw manually compiled dictionaries and CSV data.
