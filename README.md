@@ -1,13 +1,13 @@
-# BISARA AI: The First Open-Source Tausug Language Model
+# BISSARA AI: The First Open-Source Tausug Language Model
 
-![BISARA AI Banner](https://img.shields.io/badge/Language-Tausug-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-In%20Development-success?style=for-the-badge) ![Creator](https://img.shields.io/badge/Creator-Alnasrif%20Jal--usman%20Haliddin-orange?style=for-the-badge)
+![BISSARA AI Banner](https://img.shields.io/badge/Language-Tausug-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-In%20Development-success?style=for-the-badge) ![Creator](https://img.shields.io/badge/Creator-Alnasrif%20Jal--usman%20Haliddin-orange?style=for-the-badge)
 
 ## The Story Behind BISARA
 For weeks, this project was built on 4 hours of sleep a night. While massive tech companies spent billions of dollars training AI models on English, Mandarin, and Spanish, the Tausug language was completely left behind. 
 
 I refused to let my native tongue be excluded from the AI revolution. 
 
-**BISARA AI** was born out of a relentless dedication to digitize, preserve, and modernize the Tausug language. As a native Tausug speaker and an enthusiast who loves testing and tinkering, I spent countless sleepless nights engineering local data pipelines, gathering over 28,000 Tausug words and phrases from scattered internet archives, and meticulously leveraging my native fluency to manually validate and correct the dataset. 
+**BISSARA AI** was born out of a relentless dedication to digitize, preserve, and modernize the Tausug language. As a native Tausug speaker and an enthusiast who loves testing and tinkering, I spent countless sleepless nights engineering local data pipelines, gathering over 28,000 Tausug words and phrases from scattered internet archives, and meticulously leveraging my native fluency to manually validate and correct the dataset. 
 
 This repository represents the first step in human history toward building a fully capable, open-source Large Language Model (LLM) specifically trained to understand, speak, and translate Tausug.
 
