@@ -26,11 +26,9 @@ The next generation of BISSARA AI introduces a significantly improved architectu
 
 ### Architecture Diagram
 
-> *(The complete Phase 2 Version 1 architecture diagram is provided separately.)*
+<img width="8192" height="7783" alt="final tausug phase 2 final" src="https://github.com/user-attachments/assets/569c5ddf-6193-4b10-8780-fb40ecde944a" />
 
-### Documentation
 
-> *(The complete Phase 2 Version 1 documentation and repository link are provided separately.)*
 
 ---
 
@@ -74,12 +72,27 @@ The dataset is formatted in ChatML (JSONL) for efficient parameter-efficient fin
 ## Additional Documentation
 
 For licensing, citations, and technical documentation, see the following files:
+---
 
--  **[LICENSE](LICENSE)** – Apache License 2.0
--  **[NOTICE](NOTICE)** – Copyright and attribution notice
--  **[CITATION.cff](CITATION.cff)** – Citation metadata for GitHub's **"Cite this repository"** feature
--  **[PHASE2_VERSION1.md](PHASE2_VERSION1.md)** – Complete documentation for BISSARA AI Phase 2 Version 1
--  **[PHASE2_ARCHITECTURE.md](PHASE2_ARCHITECTURE.md)** – Phase 2 Version 1 architecture diagram and technical documentation
+## Copyright & License
+
+Copyright © 2026 **Alnasrif Jal-usman Haliddin**.
+
+BISSARA AI is released under the **Apache License 2.0**.
+
+### Additional Project Documentation
+
+- **LICENSE** – Apache License 2.0  
+  https://github.com/Nasrif30/BISSARA-Tausug-AI/blob/main/LICENSE
+
+- **CITATION.cff** – Citation metadata for GitHub's **"Cite this repository"** feature  
+  https://github.com/Nasrif30/BISSARA-Tausug-AI/blob/main/CITATION.cff
+
+- **README_Phase2_v1.md** – Complete documentation for BISSARA AI Phase 2 Version 1  
+  https://github.com/Nasrif30/BISSARA-Tausug-AI/blob/main/README_Phase2_v1.md
+
+See the **LICENSE** file for the complete license terms.
+
 
 ---
 
