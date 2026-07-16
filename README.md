@@ -71,11 +71,35 @@ The dataset is formatted in ChatML (JSONL) for efficient parameter-efficient fin
 
 ---
 
+## Additional Documentation
+
+For licensing, citations, and technical documentation, see the following files:
+
+-  **[LICENSE](LICENSE)** – Apache License 2.0
+-  **[NOTICE](NOTICE)** – Copyright and attribution notice
+-  **[CITATION.cff](CITATION.cff)** – Citation metadata for GitHub's **"Cite this repository"** feature
+-  **[PHASE2_VERSION1.md](PHASE2_VERSION1.md)** – Complete documentation for BISSARA AI Phase 2 Version 1
+-  **[PHASE2_ARCHITECTURE.md](PHASE2_ARCHITECTURE.md)** – Phase 2 Version 1 architecture diagram and technical documentation
+
+---
+
 ## Open Source & Community
 
 BISSARA AI is open source because language belongs to its people.
 
 The project aims to encourage students, researchers, educators, and developers to build technologies that help preserve and advance the Tausug language for future generations.
+
+---
+
+## Copyright & License
+
+Copyright © 2026 **Alnasrif Jal-usman Haliddin**. All rights reserved.
+
+BISSARA AI is an open-source project released under the **Apache License 2.0**.
+
+You are welcome to use, study, modify, and redistribute this project in accordance with the terms of the license. If you build upon BISSARA AI, its datasets, documentation, or architecture, attribution to the original creator is appreciated and helps support the continued development of open-source AI for underrepresented languages.
+
+See the [LICENSE](LICENSE) file for the complete license text.
 
 ---
 
@@ -85,8 +109,13 @@ The project aims to encourage students, researchers, educators, and developers t
 
 **Alnasrif Jal-usman Haliddin**
 
-Cybersecurity Portfolio
+GitHub  
+https://github.com/Nasrif30
 
+Hugging Face  
+https://huggingface.co/honeybadgzer
+
+Cybersecurity Portfolio  
 https://nasrif30.github.io/THE-PWNED-ARCHIVE/#archive
 
 ---
