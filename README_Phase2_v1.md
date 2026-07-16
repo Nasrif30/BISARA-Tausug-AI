@@ -151,7 +151,9 @@ Dr. Ahmad Sampang Ibn Hajiri contributed significantly to the integrity of this 
 
 ## License
 
-This project is released for educational and cultural preservation purposes. The training data is derived from publicly available academic and community resources. The model weights are published openly on Hugging Face for research and non-commercial use.
+- **LICENSE** – Apache License 2.0  
+  https://github.com/Nasrif30/BISSARA-Tausug-AI/blob/main/LICENSE
+  See the **LICENSE** file for the complete license terms.
 
 ---
 
