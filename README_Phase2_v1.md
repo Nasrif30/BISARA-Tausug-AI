@@ -145,7 +145,7 @@ Khalid Usman provided the foundational technical guidance that shaped the develo
 ### Dr. Ahmad Sampang Ibn Hajiri
 **Academic Adviser and Data Resource Provider**
 
-Dr. Ahmad Sampang Ibn Hajiri contributed significantly to the integrity of this project by providing access to essential Tausug language data resources and offering academic guidance throughout the research and development process. His scholarly expertise ensured that the linguistic and historical knowledge embedded in BISSARA AI is grounded in authentic and credible sources. ([https://kusman.me/](https://www.facebook.com/asmusahari))
+Dr. Ahmad Sampang Ibn Hajiri contributed significantly to the integrity of this project by providing access to essential Tausug language data resources and offering academic guidance throughout the research and development process. His scholarly expertise ensured that the linguistic and historical knowledge embedded in BISSARA AI is grounded in authentic and credible sources. (https://www.facebook.com/asmusahari)
 
 ---
 
