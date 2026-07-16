@@ -2,6 +2,21 @@
 
 ![BISSARA AI Banner](https://img.shields.io/badge/Language-Tausug-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-In%20Development-success?style=for-the-badge) ![Creator](https://img.shields.io/badge/Creator-Alnasrif%20Jal--usman%20Haliddin-orange?style=for-the-badge)
 
+> ## Latest Release
+>
+> **BISSARA AI Phase 2 Version 1 is now available.**
+>
+> **Read the complete documentation:**
+> https://github.com/Nasrif30/BISSARA-Tausug-AI/blob/main/README_Phase2_v1.md
+>
+> **Download the latest GGUF model:**
+> https://huggingface.co/alnasrifhaliddin/BISSARA-AI-v1.0-GGUF
+>
+> **Looking for the original Beta release?**
+> https://huggingface.co/alnasrifhaliddin/BISSARA-Tausug-v1.0-Beta-GGUF
+
+---
+
 ## The Story Behind BISSARA AI
 
 For weeks, this project was built on just four hours of sleep each night. While major technology companies invested billions into AI for widely spoken languages such as English, Mandarin, and Spanish, the Tausug language remained largely absent from modern language models.
