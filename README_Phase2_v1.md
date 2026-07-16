@@ -1,7 +1,12 @@
 # BISSARA AI — Phase 2, Version 1.0
 
 **An Artificial Intelligence System for the Preservation of the Tausug Language, History, and Culture**
-
+> ## Latest Release
+>
+> **BISSARA AI Phase 2 Version 1 is now available.**
+>
+> **Download the latest GGUF model:**
+> https://huggingface.co/alnasrifhaliddin/BISSARA-AI-v1.0-GGUF
 ---
 
 ## Overview
